@@ -10,7 +10,7 @@ Create vagrant virtual machine
 $ vagrant up 
 ```
 
-Connect to created machine 
+Connect to created machine
 
 ```bash
 $ vagrant ssh 
